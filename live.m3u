@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", IND VS BD 
-https://m1-117b.protect-cdn.net/live/m1-index.m3u8
+#EXTINF:-1 tvg-logo="https://live.aflixhd.xyz/uploads/tv_image/a-flix-hd.png" group-title="all channels", A Flix Hd Live 
+https://glb.bozztv.com/glb/ssh101/aflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", IND VS BD 
 https://fdev.short.gy/IndVbanxRanapk.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aYW5iA2m7cmvwMBIp4-YkUkbesgPIrParQ&s", ICC WOMEN'S T20
