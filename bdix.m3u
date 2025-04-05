@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.aflixhd.xyz/uploads/tv_image/a-flix-hd.png" group-title="BDIX", A Flix Hd Live 
+#EXTINF:-1 tvg-logo="https://live.aflixhd.xyz/uploads/tv_image/a-flix-hd.png" group-title="SNET", A Flix Hd Live 
 https://glb.bozztv.com/glb/ssh101/aflixhd/index.m3u8
 #EXTINF:-1,Gazi Tv
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
@@ -16,3 +16,43 @@ http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Inpendent
+http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DBC
+http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel i
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NTV
+http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATN NEWS
+http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Deepto
+http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Massranga
+http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nagorik
+http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BTV
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bangla Tv
+http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATN BANGLA
+http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BOISHAKHI
+http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ekusay Tv
+http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Jalsha
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Jalsha Movies
+http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Colors Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Atth
+http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Cenema
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Max
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
