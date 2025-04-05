@@ -2,15 +2,17 @@
 
 #EXTINF:-1 tvg-logo="https://live.aflixhd.xyz/uploads/tv_image/a-flix-hd.png" group-title="BDIX", A Flix Hd Live 
 https://glb.bozztv.com/glb/ssh101/aflixhd/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,RESOLUTION=1920x1080
-/?bitrate=1500000&channel=tsports_live_1_1080&res=1080
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1024000,RESOLUTION=1280x720
-/?bitrate=1024000&channel=tsports_live_1_720&res=720
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=856000,RESOLUTION=854x480
-/?bitrate=856000&channel=tsports_live_1_480&res=480
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360
-/?bitrate=512000&channel=tsports_live_1_360&res=360
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=360000,RESOLUTION=426x240
-/?bitrate=360000&channel=tsports_live_1_240&res=240
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=180000,RESOLUTION=240x144
-/?bitrate=180000&channel=tsports_live_1_160&res=160
+#EXTINF:-1,Gazi Tv
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Live SP
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Six
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Ten 1
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony ten 2
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony ten 3
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
